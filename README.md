@@ -1,8 +1,14 @@
-# 🏄‍♂ Gustavo Yepez
+# 👨🏻‍💻 Gustavo Yepez
 
 **`Digital Craftsman (Developer/Student/Video game enthusiast)`**
 
-Intro:
+I'm a passionate student who loves
+to develop new and accessible programs
+that help businesses achieve yearly goals.
+As part of my journey I also love to be part
+of small to large groups of individuals to
+create immersive games that leds to new
+video game generations.
 
 ---
 
