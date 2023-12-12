@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gustavo Yepez
 
-**`Digital Craftsman (Developer/Student/Video game enthusiast)`**
+**`Aspiring Software Engineer (Developer/Student/Video Game Enthusiast)`**
 
 I'm a passionate student who loves
 to develop new and accessible programs
