@@ -33,5 +33,4 @@ video game generations.
   
 
 [website]: https://www.gustayz.com/
-[instagram]: https://www.instagram.com/gustayz_z/
 [linkedin]: https://www.linkedin.com/in/gustavo-yepez-83258b246/
